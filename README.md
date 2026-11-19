@@ -39,7 +39,7 @@ running on any of seven model providers.
 ## Quick start
 
 ```bash
-git clone https://github.com/suhasagg/meta-muse-langgraph-studio && cd meta-muse-langgraph-studio
+git clone https://github.com/suhasagg/metamuse-studio && cd metamuse-studio
 python3.12 -m venv .venv && . .venv/bin/activate
 pip install -e ".[dev]"
 uvicorn app.main:app --port 8000
