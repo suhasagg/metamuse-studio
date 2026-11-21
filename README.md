@@ -36,6 +36,28 @@ running on any of seven model providers.
 | **Secure by design** | Request screening, protection against instructions hidden in web pages and emails, least-privilege agents, secret redaction, audit log. |
 | **Any model** | OpenAI, Anthropic, Google Gemini, Groq, OpenRouter, Ollama, or fully offline with no API key. |
 
+
+## 🎬 Meta Muse Studio — Product Demo
+
+[![Watch Demo](https://img.shields.io/badge/▶_Watch_Full_Demo-Loom-625DF5?style=for-the-badge)](https://www.loom.com/share/a64e6c36c7b14ee79d5488f68e4f71c8)
+
+Experience **Meta Muse Studio**, a LangGraph-powered multi-agent AI platform demonstrating intelligent workflow automation.
+
+### 🚀 Featured Capabilities
+- 📧 **Email:** Drafting, automation & approval workflows
+- ✈️ **Travel:** Trip planning, itineraries & recommendations
+- 🛍️ **Shopping:** Product discovery, comparison & purchase workflows
+- 💳 **Payments:** Transaction proposals, approvals & simulated execution
+- 📅 **Calendar:** Scheduling & meeting automation
+- 🔎 **Research:** Multi-step research & synthesis
+- 💻 **Coding:** AI-assisted development & code generation
+- 🧠 **Memory:** Persistent context & personalization
+- 🛡️ **Security:** Policy enforcement & human-in-the-loop approvals
+- 🤖 **Multi-Agent AI:** Supervisor orchestration, tool calling & LangGraph workflows
+
+**🎥 [Watch the Full Product Demo on Loom](https://www.loom.com/share/a64e6c36c7b14ee79d5488f68e4f71c8)**
+
+
 ## Quick start
 
 ```bash
